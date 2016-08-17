@@ -1,0 +1,33 @@
+{
+  "name": "grouped-edges-d3",
+  "version": "0.0.0",
+  "engines": {
+    "node": "4.1.1"
+  },
+  "description": "D3 sample using grouped edges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiveditN/grouped-edges-d3.git"
+  },
+  "keywords": [
+    "D3",
+    "JavaScript",
+    "Node",
+    "Edges",
+    "Groups"
+  ],
+  "author": "niveditn",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NiveditN/grouped-edges-d3/issues"
+  },
+  "homepage": "https://github.com/NiveditN/grouped-edges-d3#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
