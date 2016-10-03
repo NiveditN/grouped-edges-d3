@@ -1,4 +1,4 @@
-let Chart = function(opts) {
+var Chart = function(opts) {
     
     // load in arguments from config object
     this.data = opts.data;
